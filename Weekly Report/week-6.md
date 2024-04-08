@@ -7,4 +7,4 @@
 5. mask 왜곡(fisheye)
 6. mask crop 및 사이즈 변경(1920x1080)
 7. background mask 합성
-![result data](../data/result/processed_data.png)
+![result data](../data/result/preprocessed_data.png)
